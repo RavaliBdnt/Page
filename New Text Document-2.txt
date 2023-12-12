@@ -1,0 +1,52 @@
+<div data-component-theme="portalThemeColor5" class="row sectionBlockLayout" style='display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; background-image: linear-gradient(0deg, rgba(161, 159, 157, 0), rgba(161, 159, 157, 0)), url("/pic1.jpg"); background-position: center center; background-repeat: no-repeat; background-size: cover; border: 0px solid rgb(161, 159, 157); border-radius: 0px;'>
+  <div class="container">
+    <div class="col-md-12 columnBlockLayout" style="word-break: break-word; flex-grow: 1; display: flex; flex-direction: column; min-width: 300px; align-items: center;">
+      <h3 style="text-align: center; text-shadow: 0px 0px 0px #000000; background-image: linear-gradient(0deg, rgba(32, 220, 230, 1), rgba(32, 220, 230, 1)); box-shadow: 0px 0px 51px #000000; border-color: #F0F0F0; border: 0px solid #F0F0F0; border-radius: 10px;">welcome to BDnT&nbsp;</h3>
+      <p style="text-shadow: 0px 0px 0px #000000; background-image: linear-gradient(0deg, rgba(203, 114, 93, 1), rgba(203, 114, 93, 1)); box-shadow: 0px 0px 0px #000000; border-color: #F0F0F0; border: 0px solid #F0F0F0; border-radius: 10px; text-align: center;">A Blockchain Digital Native Technologies Private Limited &nbsp;</p>
+      <div class="col-md-12"></div>
+    </div>
+  </div>
+</div>
+<div class="row sectionBlockLayout text-left" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;">
+  <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
+    <div class="col-md-12 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;">
+      <p style="text-align: center; background-image: linear-gradient(0deg, rgba(28, 202, 212, 1), rgba(28, 202, 212, 1)); border-radius: 10px;">
+        ​<u aria-label="Text ​ What We Do Press enter to edit" style="position: relative;"
+          ><i
+            ><b aria-label="Text ​ What We Do Press enter to edit" style="position: relative;">​ </b><span aria-label="Text ​ What We Do Press enter to edit"><b>What We Do </b></span></i
+          ></u
+        ><br />A dynamic and forward-thinking IT startup that is passionate about leveraging technology to empower businesses and individuals. At BDNT, we specialize in providing innovative solutions that address the unique challenges of the digital age.&nbsp;
+      </p>
+    </div>
+  </div>
+</div>
+<div class="row sectionBlockLayout text-left" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;">
+  <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
+    <div class="col-md-12 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;">
+      <p style="text-align: center; background-image: linear-gradient(0deg, rgba(245, 242, 242, 1), rgba(245, 242, 242, 1)); border-radius: 20px;"><u>Why choose us ?&nbsp;</u></p>
+    </div>
+  </div>
+</div>
+<div class="row sectionBlockLayout text-left" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;">
+  <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
+    <div class="col-md-12 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;">
+      <p style="text-align: center; background-image: linear-gradient(0deg, rgba(28, 202, 212, 1), rgba(28, 202, 212, 1)); text-shadow: 0px 0px 0px #000000; box-shadow: 0px 0px 20px #000000; border-color: #F0F0F0; border: 0px solid #F0F0F0; border-radius: 15px;">​<u aria-label="Text Expertise and Experience Press enter to edit" style="position: relative;">Expertise and Experience </u><br />Our team comprises seasoned professionals with extensive experience in the IT industry. Our experts possess a deep understanding of various technologies and have successfully executed numerous projects across different domains. With a wealth of knowledge and expertise, we have the skills required to tackle complex challenges and deliver exceptional results.&nbsp;</p>
+      <p style="text-align: center; background-image: linear-gradient(0deg, rgba(245, 242, 242, 1), rgba(245, 242, 242, 1)); box-shadow: 0px 0px 20px #000000; border-color: #F0F0F0; border: 12px solid #F0F0F0; border-radius: 15px;">​<u>Customized Solutions</u><br />&nbsp;We understand that each business is unique, with its own specific requirements and goals. That's why we believe in providing tailored solutions that align with your organization's needs. We take the time to understand your business objectives, challenges, and target audience, and then develop customized strategies and solutions that address your specific pain points and drive your success.</p>
+      <p style="text-align: center; background-image: linear-gradient(0deg, rgba(28, 202, 212, 1), rgba(28, 202, 212, 1)); border-radius: 10px; border-color: #f5f2f2; border: 0px solid #f5f2f2;">​<u aria-label="Text Client-Centric Approach Press enter to edit" style="position: relative;">&nbsp;Client-Centric Approach</u><br />&nbsp;We prioritize building strong and long-lasting relationships with our clients, focusing on open communication, collaboration, and responsiveness. We value your input and strive to work closely with you throughout the project lifecycle, ensuring that your vision is translated into reality and that your expectations are exceeded.</p>
+      <p style="text-align: center; background-image: linear-gradient(0deg, rgba(245, 242, 242, 1), rgba(245, 242, 242, 1)); border-color: #f5f2f2; border: 0px solid #f5f2f2; box-shadow: 0px 0px 5px #000000; border-radius: 10px;">​<u>&nbsp;Quality Assurance </u><br />Quality is at the core of our operations. We maintain rigorous quality assurance standards to ensure that our deliverables meet the highest levels of performance, reliability, and security. Our team adheres to industry best practices, conducts thorough testing, and employs robust quality control measures to guarantee that our solutions meet and exceed your expectations.</p>
+      <p style="text-align: center; background-image: linear-gradient(0deg, rgba(28, 202, 212, 1), rgba(28, 202, 212, 1)); border-radius: 10px; border-color: #f5f2f2; border: 0px solid #f5f2f2;"><u>&nbsp;Cost-Effectiveness</u><br />&nbsp;As a startup, we understand the importance of cost-effectiveness for businesses of all sizes. We offer competitive pricing models and work closely with you to maximize your return on investment. Our solutions are designed to optimize efficiency, reduce overheads, and provide long-term value, enabling you to achieve your business goals within your budgetary constraints.</p>
+      <p style="text-align: center; background-image: linear-gradient(0deg, rgba(245, 242, 242, 1), rgba(245, 242, 242, 1)); border-radius: 10px; border-color: #f5f2f2; border: 0px solid #f5f2f2;"><u>&nbsp;Continuous Support and Maintenance</u><br />&nbsp;Our commitment to your success extends beyond the initial project delivery. We provide ongoing support, maintenance, and updates to ensure that your IT systems and solutions remain up-to-date, secure, and optimized. We are your trusted technology partner, dedicated to assisting you at every stage of your journey.</p>
+    </div>
+  </div>
+</div>
+<div data-component-theme="portalThemeColor2" class="row sectionBlockLayout text-left" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px; background-image: linear-gradient(0deg, rgba(47, 94, 103, 0), rgba(47, 94, 103, 0)); border: 0px solid rgb(107, 107, 107); border-radius: 0px;">
+  <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
+    <div class="col-md-6 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;">
+      <p class="smallText" style="text-align: center; background-image: linear-gradient(0deg, rgba(47, 94, 103, 0), rgba(47, 94, 103, 0)); border-color: #2F5E67; border: 0px solid #2F5E67;">​<u aria-label="Text BDNT LABS PRIVATE LIMITED Press enter to edit" style="position: relative;">BDNT LABS PRIVATE LIMITED</u><br /><br />&nbsp;Adilabad Main Rd Mavala,<br />&nbsp;Adilabad 504001 Telangana, <br />India Phone: +91 8732-223090<br />&nbsp;Email: careers@bdnt.tech &nbsp;</p>
+    </div>
+    <div class="col-md-6 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;">
+      <p class="smallText" style="text-align: center; background-image: linear-gradient(0deg, rgba(245, 242, 242, 0), rgba(245, 242, 242, 0));"><u>&nbsp;Resources </u><br />News<br />&nbsp;Events<br /><u>&nbsp;Legal </u><br />Terms of service <br />Privacy policy</p>
+    </div>
+  </div>
+</div>
+{% include 'Portal Web API Wrapper' %}
